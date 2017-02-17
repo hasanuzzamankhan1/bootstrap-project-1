@@ -1,0 +1,42 @@
+body{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+
+.header{
+    background:url(../images/image_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    color: #fff;
+}
+
+.container{
+	max-width: 1180px;
+}
+
+.portfolio{
+	margin-top: 80px auto;
+}
+
+.portfolio img{
+	width: 300px;
+	margin-left: 60px;
+}
+
+.portfolio2 img{
+	width: 300px;
+	margin-left: 150px;
+}
+
+.row{
+	padding-top: 40px;
+	margin-right:25px;
+	margin-left: 25px;
+}
+
